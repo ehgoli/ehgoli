@@ -1,8 +1,8 @@
 # Hi 👋
 
-> I don't like writing code.
+> I don't build applications.
 >
-> I like solving problems with code.
+> I build systems that scale.
 
 Backend & Middleware Developer
 
@@ -28,4 +28,4 @@ Simplicity > Complexity
 
 ### Tech
 
-C# • ASP.NET Core • PostgreSQL • Redis • RabbitMQ • gRPC • Python • Git
+C# • ASP.NET Core • RabbitMQ • gRPC • Redis • PostgreSQL • Python • Git
